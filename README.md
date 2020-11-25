@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 🌱 I’m currently learning how to create Java and web-based Java applications. 
+
+Follow my links to view some of my work
 
 <!--
 **BToyin/BToyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
