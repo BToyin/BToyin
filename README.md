@@ -16,10 +16,13 @@ Follow my links to view some of my work
 - 🌐  HTML | CSS | JavaScript | Bootstrap
 - 🛢  MySQL | Azure Data Studio
 - 🔧  Git
+
+<button type="button" class="btn btn-fb"><i class="fab fa-facebook-f"></i></button>
+
 <!--
 **BToyin/BToyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <hr>
-<button type="button" class="btn btn-fb"><i class="fab fa-facebook-f"></i></button>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
