@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I was born in Germany (speak the language) and I am a Twin.
 
 ### 🛠 Tech Skills
-- 💻  Python | Java
+- 💻  Python | Java | Apache Maven | Spring
 - 🌐  HTML | CSS | JavaScript | Bootstrap
 - 🛢  MySQL | Azure Data Studio
 - 🔧  Git
