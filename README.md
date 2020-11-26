@@ -1,4 +1,4 @@
-### Hi there! I'm Toyin 👋
+## Hi there! I'm Toyin 👋
 
 ### 👨🏻‍💻 About Me
 - 🔭   I’m currently working on developing my Java based development skills.
@@ -7,9 +7,15 @@
 - 💼   Trainee Java development consultant.
 - 🌱   Hoping to develop skills in mobile app development in the future.
 - ✍️   Watching Anime and reading self-help type books/materials.
-- ⚡ Fun fact: I was born in Germany (speak the language) and I am a Twin
+- ⚡ Fun fact: I was born in Germany (speak the language) and I am a Twin.
 Follow my links to view some of my work
 
+
+### 🛠 Tech Skills
+- 💻  Python | Java
+- 🌐  HTML | CSS | JavaScript | Bootstrap
+- 🛢  MySQL | Azure Data Studio
+- 🔧  Git
 <!--
 **BToyin/BToyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
