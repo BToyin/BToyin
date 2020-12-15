@@ -13,7 +13,7 @@
 - 💻  Python | Java | Apache Maven | Spring
 - 🌐  HTML | CSS | JavaScript | Bootstrap
 - 🛢  MySQL | Azure Data Studio
-- 🔧  Git | Trello
+- 🔧  Git | Trello | Jira
 
 
 <!--
