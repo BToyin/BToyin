@@ -4,16 +4,16 @@
 - 🔭   I’m currently working on developing my Java based development skills.
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
 - 🎓   Graduated with a Master's degree in Chemical Engineering.
-- 💼   Trainee Java development consultant.
+- 💼   Java development consultant.
 - 🌱   Hoping to develop skills in mobile app development in the future.
 - ✍️   Watching Anime and reading self-help type books/materials.
 - ⚡ Fun fact: I was born in Germany (speak the language) and I am a Twin.
 
 ### 🛠 Tech Skills
 - 💻  Python | Java | Apache Maven | Spring
-- 🌐  HTML | CSS | JavaScript | Bootstrap
+- 🌐  HTML | CSS | JavaScript | Bootstrap | Thymeleaf
 - 🛢  MySQL | Azure Data Studio
-- 🔧  Git | Trello | Jira
+- 🔧  Git | Trello | Jira | Bitbucket
 
 
 <!--
