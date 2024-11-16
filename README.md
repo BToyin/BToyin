@@ -1,18 +1,18 @@
 ## Hi there! I'm Toyin 👋
 
 ### 👨🏻‍💻 About Me
-- 🔭   I’m currently working on developing my Java based development skills.
+- 💼   Senior Software Engineer
+- 🔭   Creating some fun personal projects
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
 - 🎓   Graduated with a Master's degree in Chemical Engineering.
-- 💼   Java development consultant.
 - 🌱   Hoping to develop skills in mobile app development in the future.
-- ✍️   Watching Anime and reading self-help type books/materials.
-- ⚡ Fun fact: I was born in Germany (speak the language) and I am a Twin.
+- ✍️    Watching Anime and reading self-help type books/materials.
+- ⚡    Fun fact: I was born in Germany (speak the language) and I am a Twin.
 
-### 🛠 Tech Skills
-- 💻  Python | Java | Apache Maven | Spring
-- 🌐  HTML | CSS | JavaScript | Bootstrap | Thymeleaf
-- 🛢  MySQL | Azure Data Studio
+### 🛠 Tech Stack
+- 💻  Java | Python | React | Hugo
+- 🌐  HTML | CSS | JavaScript | React | Thymeleaf | Angular
+- 🛢  MySQL | PostGreSQL | Azure Data Studio
 - 🔧  Git | Trello | Jira | Bitbucket
 
 
